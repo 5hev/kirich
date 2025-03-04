@@ -1,0 +1,12 @@
+{
+  "name": "kirich",
+  "version": "0.1.0",
+  "description": "SwearBot@YCloud",
+  "main": "index.js",
+    "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.0",
+    "lodash": "^4.17.21"  
+  }
+}
